@@ -1,0 +1,72 @@
+.item1 { grid-area: header; }
+.item2 { grid-area: menu;}
+.item3 { grid-area: main; }
+.item4 { grid-area: right; }
+
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'menu header header header header right'
+    'menu main main main main right';
+  gap: 5px;
+  background-color: black;
+  padding: 10px;
+  color: ivory;
+  margin-right: 15px;
+  margin-left: 15px;
+  border-radius: 15px;
+}
+
+.grid-container > div {
+  background-color: black;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+#moi{
+  border-radius: 50%;
+}
+
+#pbi{
+  width: 200px;
+  height: 200px;
+}
+
+.certif{
+  text-align: center;
+  background-color: white;
+
+}
+
+.logomcp{
+width: 190px ;
+height:90px;
+margin-right: 20px;
+border-color: black;
+border-radius: 10%;
+}
+
+.logoaws{
+width: 150px ;
+height:125px;
+margin-right: 20px;
+border-radius: 10%;
+
+}
+.logojava{
+  width: 170px ;
+  height:130px;
+  margin: 20px;
+  border-radius: 10%;
+  
+  }
+
+p{
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    text-align: center;
+  
+  
+  }

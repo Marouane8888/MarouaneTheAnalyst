@@ -1,0 +1,40 @@
+
+
+.githube{
+    width: 40px ;
+    height: 50px;
+    margin-block-end: 1px;
+    margin: auto;
+  
+}
+.linkedin{
+    width: 40px ;
+    height: 40px;
+    margin: auto;
+  
+}
+.nav-links{
+  display: flex;
+  background: rgba(7, 7, 12, 0.945);
+  margin: 10px;
+  border-radius: 12px;
+
+}
+
+#btn{
+    margin: auto;
+    
+}
+
+H3{
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+
+
+

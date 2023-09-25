@@ -1,0 +1,19 @@
+.legend {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.pic {
+    background-color: black;
+
+   
+}
+img{
+    border-radius: 40% 10%;
+    width:550px ;
+    height:350px ;
+
+}
