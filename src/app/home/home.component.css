@@ -8,12 +8,14 @@
 
 .pic {
     background-color: black;
+   
 
    
 }
 img{
     border-radius: 40% 10%;
-    width:550px ;
-    height:350px ;
+ 
+    width: 50%;
+    height: 35%;
 
 }
